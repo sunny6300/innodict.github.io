@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome"
-featured-img: Welcome
+featured-img: Welcome.png
 ---
 
 Hello ninjas, This is my first article on internet.Here, I am gonna be posting lots of articles related to cyber security and hacking. You get to learn deep about web application and mobile application penetration testing and lot more ;)
