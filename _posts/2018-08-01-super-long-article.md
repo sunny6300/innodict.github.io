@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First article"
+title: "Welcome"
 featured-img: shane-rounce-205187
 ---
 
