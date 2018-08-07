@@ -10,13 +10,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: H4ckGeeks # add banner title
+banner-desc: Think Hacking # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: Sunny Singh# your name
-about-author: Cyber Security Enthusiast# about author
+author-name: Sunny Singh # your name
+about-author: Cyber Security Enthusiast # about author
 email: sunnysingh6300@gmail.com # your email
 phone: +918005457600 # your pnone number
 website: https://sunny-singh.me # you website
