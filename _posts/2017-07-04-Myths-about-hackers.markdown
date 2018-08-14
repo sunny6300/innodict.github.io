@@ -3,7 +3,7 @@ layout: post
 title: "Myths about Hackers"
 img: hacker.jpg # Add image post (optional)
 date: 2018-08-15 12:54:00 +0300
-description: Hackers are the ones who aren't afraid of making mistakes again and again instead they learn something new everytime they make mistakes.  # Add post description (optional)
+description: Everyone who has made some changes going deep into something, is a hacker.  # Add post description (optional)
 tag: [Hacker]
 ---
 When you hear the word "hacker", your mind goes to a guy with black hoodie, sitting on high configured systems in a dark room who breaks into other computers and takes over other people's accounts. But the truth is totally different. This myth has been created by the media and people around us.
