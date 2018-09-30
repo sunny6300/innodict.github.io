@@ -68,3 +68,43 @@ Let's now check if we can run 'wget' command so that we can download and run som
 
 ![](/assets/img/vulnhub_box/Lampiao-1/14.png){:class="img-responsive"}
 
+We are gonna be downloading 'Linux Exploit Suggester' and run it on target machine which will show us the exploits available on the machine. We can download 'Linux Exploit Suggester' from 'https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh -O les.sh'. Run the command as in screenshot that will download 'Linux Exploit Suggester' as 'les.sh'.
+
+![](/assets/img/vulnhub_box/Lampiao-1/15.png){:class="img-responsive"}
+
+![](/assets/img/vulnhub_box/Lampiao-1/16.png){:class="img-responsive"}
+
+![](/assets/img/vulnhub_box/Lampiao-1/17.png){:class="img-responsive"}
+
+Let's now change the permission to execute the les.sh file. Use the 'chmod' command.
+
+![](/assets/img/vulnhub_box/Lampiao-1/18.png){:class="img-responsive"}
+
+It's time to run the file and see what are the exploits available for this machine. Use './les.sh' to see the exploits. There are plenty number of exploits available for this machine.
+
+![](/assets/img/vulnhub_box/Lampiao-1/19.png){:class="img-responsive"}
+
+But we are gonna be using 'dirtycow 2' which we change the password of root by itself.
+
+![](/assets/img/vulnhub_box/Lampiao-1/20.png){:class="img-responsive"}
+
+We have to download dirtycow 2 on the target machine and run. We are gonna be using 'wget' command again to download the exploit. The link to download exploit can be found in the exploit section itself.
+
+![](/assets/img/vulnhub_box/Lampiao-1/21.png){:class="img-responsive"}
+
+It downloads 40847.cpp file which is a c++ program. Let's now excute using g++. Refer the screenshot for command.
+
+![](/assets/img/vulnhub_box/Lampiao-1/22.png){:class="img-responsive"}
+
+Once we execute the 40847.cpp file, we get another file(dcow) created. We can run it and this will change root password to 'dirtyCowFun'.
+
+![](/assets/img/vulnhub_box/Lampiao-1/23.png){:class="img-responsive"}
+
+Let's now connect root using ssh and see if we can find our flag there. The root password is 'dirtyCowFun'.
+
+![](/assets/img/vulnhub_box/Lampiao-1/24.png){:class="img-responsive"}
+
+When we list the directory we can find a file(flag.txt) which is our flag. Let's open and see using 'cat' command. Here we go, we have our flag here.
+
+ Thanks for reading... Happy Hacking.....
+ Visit my website
