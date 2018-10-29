@@ -28,3 +28,18 @@ Download the box from [Here](https://download.vulnhub.com/toppo/Toppo.zip)
 
 Download the box from [Here](https://download.vulnhub.com/blacklight/BLACKLIGHT.ova)
 
+
+* Walkthrough on [Bob: 1.0.1](https://innodict.in) is coming soon.
+
+Download the box from [Here](https://download.vulnhub.com/bob/Bob_v1.0.1.ova)
+
+
+* [JIS-CTF: VulnUpload](https://innodict.in) is coming soon.
+
+Download the box from [Here](https://download.vulnhub.com/jisctf/JIS-CTF-VulnUpload-CTF01.ova)
+
+
+* [LazySysAdmin: 1](https://innodict.in) is coming soon.
+
+Download the box from [Here](https://download.vulnhub.com/lazysysadmin/Lazysysadmin.zip)
+
